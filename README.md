@@ -101,8 +101,7 @@ IBM Telco Customer Churn
 ## **Repository Structure**
 
 ```
-/customer-churn-analysis
-│
+/
 ├── cleaned_churn_data.csv
 │
 ├── Customer-Churn-Analysis.pdf   (dashboard export)
